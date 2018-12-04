@@ -1,7 +1,7 @@
-/* Audio Video multiplxer
+/* Audio Video multiplexer
  *  (c) 2018 A.G.Doswell
  *  
- *  Software to control video multiplexer handware.
+ *  Software to control video multiplexer hardware.
  *  Details on andydoz.blogspot.com
  *  
  */
